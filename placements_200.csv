@@ -1,0 +1,95 @@
+id,name,branch,batch,company,ctc,type
+1,Ritika Agarwal 12,ME,2024,Tata Motors,5.0,Internship Conversion
+2,Minal Agarwal,EE,2023,Honeywell,7.57,Internship Conversion
+3,Simran Rao,ECE,2022,Samsung,5.49,Internship Conversion
+4,Rohan Nair,ECE,2023,AMD,6.4,Internship Conversion
+5,Vikas Mehra,CHE,2024,Dow Chemical,7.45,Internship Conversion
+6,Rohan Agarwal,IT,2023,ServiceNow,5.97,Internship Conversion
+7,Harsh Kapoor,IT,2024,Capgemini,5.47,Internship Conversion
+8,Manav Malhotra,EE,2023,Siemens,19.9,Internship Conversion
+9,Raghav Jain,ME,2022,Siemens,25.77,Internship Conversion
+10,Arjun Kaur,IT,2022,Freshworks,9.54,Internship Conversion
+11,Harsh Reddy,ME,2024,Bajaj Auto,9.37,Internship Conversion
+12,Harsh Reddy,IT,2024,Cognizant,9.7,Internship Conversion
+13,Rahul Agarwal,IT,2022,Accenture,17.33,Internship Conversion
+14,Raghav Patel,EE,2022,Larsen & Toubro,12.76,Internship Conversion
+15,Arjun Jain,IT,2023,Freshworks,3.0,Internship Conversion
+16,Kiran Rao,EE,2023,Honeywell,8.48,Internship Conversion
+17,Sakshi Malhotra,ME,2022,Siemens,10.98,Internship Conversion
+18,Kiran Bhatia,CHE,2022,L&T,7.55,Internship Conversion
+19,Rohan Singh,EE,2024,GE,10.53,Internship Conversion
+20,Kiran Malhotra,CHE,2024,Tata Chemicals,9.62,Internship Conversion
+21,Ritu Rao,BIOTECH,2024,Thermo Fisher,9.97,Internship Conversion
+22,Harsh Gupta,EE,2024,BHEL,9.5,Internship Conversion
+23,Vivek Das,EE,2023,Siemens,10.67,Internship Conversion
+24,Rohan Chopra 69,PIE,2023,BASF,6.52,Internship Conversion
+25,Priya Kaur,CSE,2024,Flipkart,12.77,Internship Conversion
+26,Arjun Iyer,CSE,2024,Morgan Stanley,11.58,Internship Conversion
+27,Harsh Agarwal,ME,2023,Bajaj Auto,6.38,Internship Conversion
+28,Vikas Rao,CSE,2024,Goldman Sachs,20.83,Internship Conversion
+29,Neha Das,CSE,2024,Amazon,29.32,Internship Conversion
+30,Ankit Iyer,PIE,2024,Nestle,5.05,Internship Conversion
+31,Amit Bhatia,ME,2022,TVS,7.5,Internship Conversion
+32,Rohan Chopra,ECE,2022,Siemens,15.82,Internship Conversion
+33,Simran Kaur,CSE,2024,Google,30.25,Internship Conversion
+34,Rahul Iyer,ME,2024,Tata Motors,16.21,Internship Conversion
+35,Minal Shetty,BIOTECH,2022,Syngene,3.0,Internship Conversion
+36,Priya Chopra,CIVIL,2022,GMR Infra,3.0,Internship Conversion
+37,Tanya Kapoor,CSE,2022,Google,28.01,Internship Conversion
+38,Minal Gupta,CSE,2023,Morgan Stanley,9.77,Internship Conversion
+39,Minal Malhotra 26,CSE,2022,Goldman Sachs,28.8,Internship Conversion
+40,Pooja Das,BIOTECH,2024,Bharat Biotech,10.72,Internship Conversion
+41,Sakshi Shetty,CIVIL,2023,AFCONS,3.0,Internship Conversion
+42,Manav Iyer,EE,2023,BHEL,15.8,Internship Conversion
+43,Sana Patel,ECE,2024,Siemens,9.6,Internship Conversion
+44,Karan Verma,PIE,2022,BASF,15.29,Internship Conversion
+45,Kiran Bhatia,CSE,2024,Amazon,34.63,Internship Conversion
+46,Pooja Malhotra 8,ME,2023,Siemens,13.95,Internship Conversion
+47,Arjun Reddy,CSE,2022,Amazon,13.3,Internship Conversion
+48,Karan Reddy,IT,2023,Flipkart,33.23,Internship Conversion
+49,Priya Singh,EE,2023,BHEL,13.02,Internship Conversion
+50,Vivek Rao,ECE,2024,Siemens,15.91,Internship Conversion
+51,Manav Mehra,CHE,2024,Reliance,5.05,Internship Conversion
+52,Ankit Bhatia,CSE,2023,Microsoft,28.63,Internship Conversion
+53,Ritu Patel,EE,2023,Honeywell,10.59,Internship Conversion
+54,Rohan Rao 53,IT,2022,Wipro,13.71,Internship Conversion
+55,Simran Bhatia 77,IT,2024,Accenture,4.12,Internship Conversion
+56,Vikas Shetty,CIVIL,2024,NCC,6.34,Internship Conversion
+57,Sana Kaur,ME,2023,Bosch,8.13,Internship Conversion
+58,Karan Das,IT,2022,Accenture,3.0,Internship Conversion
+59,Ritu Gupta,BIOTECH,2024,Biocon,8.86,Internship Conversion
+60,Amit Sharma,CSE,2023,Infosys,10.31,Internship Conversion
+61,Aditya Chopra,PIE,2022,BASF,13.2,Internship Conversion
+62,Amit Kumar,ECE,2024,Samsung,6.32,Internship Conversion
+63,Manav Kapoor,ECE,2023,Siemens,10.38,Internship Conversion
+64,Tanya Gupta,ME,2022,Maruti Suzuki,22.8,Internship Conversion
+65,Isha Bhatia,PIE,2022,BASF,8.82,Direct Placement
+66,Pooja Singh,ME,2023,Bajaj Auto,3.0,Direct Placement
+67,Raghav Jain,CHE,2024,BASF,19.55,Direct Placement
+68,Minal Iyer,EE,2022,BHEL,11.59,Direct Placement
+69,Ritika Das,CHE,2024,Tata Chemicals,12.87,Direct Placement
+70,Minal Kapoor,EE,2024,BHEL,8.4,Direct Placement
+71,Raghav Agarwal,CHE,2023,Reliance,22.57,Direct Placement
+72,Minal Gupta,CHE,2024,Reliance,6.87,Direct Placement
+73,Ritika Mehra,ECE,2023,Texas Instruments,3.0,Direct Placement
+74,Harsh Shetty,ECE,2023,Intel,5.27,Direct Placement
+75,Ritika Sharma,BIOTECH,2024,Ranbaxy,3.0,Direct Placement
+76,Kiran Das,CSE,2023,Morgan Stanley,11.65,Direct Placement
+77,Rahul Kaur,CHE,2023,Suzlon,3.52,Direct Placement
+78,Ritika Rao,EE,2022,Schneider,18.47,Direct Placement
+79,Amit Verma,CSE,2022,Morgan Stanley,3.0,Direct Placement
+80,Ritu Bhatia,ECE,2023,Qualcomm,21.12,Direct Placement
+81,Rohan Das,CSE,2023,Flipkart,3.0,Direct Placement
+82,Priya Chopra,ME,2023,Maruti Suzuki,8.16,Direct Placement
+83,Amit Bhatia,ME,2022,Mahindra,3.0,Direct Placement
+84,Deepa Malhotra 90,EE,2023,Honeywell,7.97,Direct Placement
+85,Rohan Jain,ME,2024,TVS,12.54,Direct Placement
+86,Arjun Das,PIE,2022,P&G,17.09,Direct Placement
+87,Rohan Shetty,ME,2024,Maruti Suzuki,18.3,Direct Placement
+88,Sakshi Bhatia,ME,2024,TVS,13.69,Direct Placement
+89,Rohan Verma,ECE,2022,AMD,15.25,Direct Placement
+90,Sakshi Agarwal,EE,2022,Larsen & Toubro,13.14,Direct Placement
+91,Vivek Iyer,IT,2024,SAP,13.83,Direct Placement
+92,Karan Shetty,CSE,2024,Flipkart,12.24,Direct Placement
+93,Ankit Chopra,CSE,2023,Adobe,15.81,Direct Placement
+94,Sana Sharma,ME,2024,Mahindra,12.96,Direct Placement

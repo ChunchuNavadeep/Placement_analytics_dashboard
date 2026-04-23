@@ -1,0 +1,201 @@
+id,name,branch,batch,cgpa,company,stipend,duration_months,skills,converted,placement_company,ctc
+1,Ritika Agarwal 12,ME,2024,7.55,Tata Motors,18724,1,SolidWorks,YES,Tata Motors,5.0
+2,Minal Agarwal,EE,2023,8.32,Honeywell,20416,2,Protection,YES,Honeywell,7.57
+3,Rohan Nair,ECE,2023,7.33,Analog Devices,5000,6,Embedded|Verilog,NO,,0.0
+4,Simran Verma,EE,2023,7.45,ABB,5385,1,Power Systems,NO,,0.0
+5,Harsh Mehra,CSE,2024,8.46,Goldman Sachs,31694,6,Java|Python,NO,,0.0
+6,Harsh Mehra 73,IT,2023,8.02,Accenture,56330,3,React,NO,,0.0
+7,Ritika Chopra,IT,2022,8.12,Oracle,49020,6,Python,NO,,0.0
+8,Deepa Agarwal,ECE,2024,8.22,Intel,38969,2,Embedded,NO,,0.0
+9,Raghav Kaur,BIOTECH,2023,8.76,Bharat Biotech,13326,3,Molecular Biology,NO,,0.0
+10,Kiran Kapoor,CSE,2022,8.05,Flipkart,20321,1,Node.js,NO,,0.0
+11,Amit Verma,CSE,2023,8.71,Microsoft,33439,6,Node.js,NO,,0.0
+12,Isha Patel,IT,2023,8.35,ThoughtWorks,51301,6,Angular|Microservices,NO,,0.0
+13,Deepa Das,BIOTECH,2022,7.65,Bharat Biotech,3251,6,Lab Techniques,NO,,0.0
+14,Simran Kumar,IT,2022,8.68,Wipro,47448,1,Python,NO,,0.0
+15,Simran Rao,ECE,2022,8.07,Samsung,62984,6,Verilog,YES,Samsung,5.49
+16,Simran Bhatia,CHE,2023,7.55,Tata Chemicals,19183,1,Process Design|Simulation,NO,,0.0
+17,Rohan Jain,CSE,2022,9.36,Morgan Stanley,79670,1,React|Node.js,NO,,0.0
+18,Pooja Agarwal,CHE,2024,8.6,Tata Chemicals,15107,6,Thermodynamics|MATLAB,NO,,0.0
+19,Priya Singh,ME,2024,8.42,TVS,19682,3,CAD|FEA,NO,,0.0
+20,Deepa Jain,CSE,2024,8.13,TCS,42426,1,Java,NO,,0.0
+21,Simran Mehra,IT,2023,8.06,SAP,42128,3,Docker|Microservices,NO,,0.0
+22,Rohan Nair,ECE,2023,7.44,Intel,27809,1,Embedded|Verilog,YES,AMD,6.4
+23,Vikas Mehra,CHE,2024,7.62,Dow Chemical,6150,1,Simulation|Process Design,YES,Dow Chemical,7.45
+24,Rohan Agarwal,IT,2023,7.99,ServiceNow,104630,1,Microservices|Node.js,YES,ServiceNow,5.97
+25,Minal Gupta,ME,2024,7.92,Bosch,20611,1,Manufacturing,NO,,0.0
+26,Deepa Verma,EE,2023,8.37,Larsen & Toubro,25528,2,Simulink|Power Systems,NO,,0.0
+27,Neha Agarwal 95,BIOTECH,2023,8.39,Thermo Fisher,12355,2,Cell Culture,NO,,0.0
+28,Simran Bhatia,PIE,2023,9.05,ITC,17920,6,Product Design,NO,,0.0
+29,Rohan Mehra,CHE,2024,7.68,Adani,8188,3,Thermodynamics|Process Design,NO,,0.0
+30,Priya Verma,BIOTECH,2023,8.12,Bharat Biotech,23896,3,Bioinformatics,NO,,0.0
+31,Sakshi Agarwal 86,ECE,2024,8.17,Nokia,5042,2,C|Embedded,NO,,0.0
+32,Harsh Kapoor,IT,2024,7.11,Wipro,48341,3,Cloud,YES,Capgemini,5.47
+33,Manav Malhotra,EE,2023,7.85,Siemens,30317,3,Protection,YES,Siemens,19.9
+34,Raghav Jain,ME,2022,7.57,Siemens,8089,1,FEA,YES,Siemens,25.77
+35,Ankit Chopra,EE,2022,8.59,ABB,11411,6,SCADA|Simulink,NO,,0.0
+36,Manav Gupta,CIVIL,2024,7.59,GMR,20757,1,Surveying|Construction Management,NO,,0.0
+37,Neha Rao,EE,2024,8.49,ABB,13379,6,Embedded|Control Systems,NO,,0.0
+38,Arjun Kaur,IT,2022,8.04,Freshworks,68126,3,Node.js,YES,Freshworks,9.54
+39,Harsh Reddy,ME,2024,8.24,Bajaj Auto,14123,6,FEA|Thermodynamics,YES,Bajaj Auto,9.37
+40,Ankit Jain,CSE,2023,8.57,Goldman Sachs,10446,2,AWS,NO,,0.0
+41,Harsh Reddy,IT,2024,8.73,Cognizant,5000,1,Java,YES,Cognizant,9.7
+42,Rahul Agarwal,IT,2022,7.48,Accenture,56370,6,Python,YES,Accenture,17.33
+43,Vivek Gupta,IT,2022,8.38,Wipro,44809,1,React|Docker,NO,,0.0
+44,Raghav Patel,EE,2022,8.1,GE,26752,1,Protection,YES,Larsen & Toubro,12.76
+45,Ritika Singh,ECE,2023,7.83,AMD,29973,1,MATLAB|VLSI,NO,,0.0
+46,Minal Gupta,CSE,2024,8.05,Goldman Sachs,28328,6,React|Java,NO,,0.0
+47,Arjun Jain,IT,2023,7.11,Freshworks,65955,3,Node.js|Docker,YES,Freshworks,3.0
+48,Arjun Mehra,ECE,2023,8.17,Qualcomm,65703,3,Verilog|FPGA,NO,,0.0
+49,Kiran Rao,EE,2023,7.92,Honeywell,4000,6,Control Systems|SCADA,YES,Honeywell,8.48
+50,Sakshi Malhotra,ME,2022,7.51,Siemens,9669,3,FEA,YES,Siemens,10.98
+51,Tanya Bhatia,IT,2023,8.14,Freshworks,78127,3,Python,NO,,0.0
+52,Tanya Sharma,CSE,2023,8.13,TCS,34288,6,DSA|Node.js,NO,,0.0
+53,Ritika Singh,IT,2023,9.19,Flipkart,61074,1,Angular,NO,,0.0
+54,Raghav Shetty,CSE,2023,7.42,Adobe,40744,2,Java,NO,,0.0
+55,Kiran Bhatia,CHE,2022,8.79,L&T,18543,2,Simulation,YES,L&T,7.55
+56,Minal Malhotra 30,CSE,2024,8.48,Amazon,54197,3,React|Data Structures,NO,,0.0
+57,Rohan Singh,EE,2024,8.34,GE,24659,2,Control Systems,YES,GE,10.53
+58,Vivek Singh,CIVIL,2024,8.65,AFCONS,5664,1,Construction Management|Design,NO,,0.0
+59,Raghav Mehra,IT,2022,9.11,Wipro,38732,1,Python,NO,,0.0
+60,Arjun Kaur,ECE,2023,7.81,Ericsson,77640,6,C|Verilog,NO,,0.0
+61,Manav Kumar,ECE,2023,7.68,Ericsson,28431,1,Signal Processing,NO,,0.0
+62,Kiran Malhotra,CHE,2024,7.37,Tata Chemicals,24115,6,MATLAB,YES,Tata Chemicals,9.62
+63,Rohan Jain,IT,2023,7.72,Oracle,48454,6,Java,NO,,0.0
+64,Ritu Rao,BIOTECH,2024,8.45,Thermo Fisher,12270,3,Cell Culture|PCR,YES,Thermo Fisher,9.97
+65,Amit Kapoor,ME,2024,7.64,Maruti Suzuki,10577,3,MATLAB|Thermodynamics,NO,,0.0
+66,Manav Kaur,BIOTECH,2022,7.51,Dr Reddy's,8279,6,PCR|Bioinformatics,NO,,0.0
+67,Harsh Gupta,EE,2024,7.51,GE,4000,6,Protection|Control Systems,YES,BHEL,9.5
+68,Vivek Chopra,CHE,2024,8.03,Suzlon,3000,3,Thermodynamics|Process Design,NO,,0.0
+69,Simran Kapoor,CHE,2023,8.11,L&T,13445,1,Heat Transfer|MATLAB,NO,,0.0
+70,Sakshi Agarwal,BIOTECH,2024,7.91,Syngene,17427,3,Molecular Biology|Lab Techniques,NO,,0.0
+71,Simran Malhotra,ME,2024,8.21,Maruti Suzuki,14579,2,MATLAB|Thermodynamics,NO,,0.0
+72,Sakshi Reddy,CSE,2024,7.85,Morgan Stanley,36829,6,Data Structures,NO,,0.0
+73,Minal Kapoor 85,IT,2022,8.56,ServiceNow,52615,3,Node.js|Angular,NO,,0.0
+74,Vivek Das,EE,2023,8.41,Siemens,15348,2,Simulink,YES,Siemens,10.67
+75,Rohan Kapoor,CHE,2022,7.51,BASF,22455,2,Heat Transfer|MATLAB,NO,,0.0
+76,Rahul Rao,CSE,2023,7.52,TCS,49775,2,Algorithms|Node.js,NO,,0.0
+77,Rohan Chopra 69,PIE,2023,7.92,BASF,37689,3,Manufacturing|Automation,YES,BASF,6.52
+78,Vivek Jain,ME,2023,6.72,Ashok Leyland,20228,3,CAD|Manufacturing,NO,,0.0
+79,Ankit Verma,CIVIL,2022,8.93,Tata Projects,29888,3,Construction Management|AutoCAD,NO,,0.0
+80,Ritu Verma,ECE,2023,7.13,Analog Devices,14033,2,Analog Design,NO,,0.0
+81,Tanya Das,CSE,2023,7.59,Goldman Sachs,56248,3,Machine Learning|React,NO,,0.0
+82,Priya Kaur,CSE,2024,8.28,Flipkart,31336,1,React|Java,YES,Flipkart,12.77
+83,Rahul Gupta,CHE,2022,7.84,Adani,18980,1,Thermodynamics,NO,,0.0
+84,Aditya Agarwal,CSE,2023,8.42,Amazon,69537,2,Machine Learning|Algorithms,NO,,0.0
+85,Aditya Shetty,ECE,2022,7.59,Analog Devices,55255,1,Analog Design|VLSI,NO,,0.0
+86,Arjun Iyer,CSE,2024,7.48,Morgan Stanley,43664,1,Java|React,YES,Morgan Stanley,11.58
+87,Minal Verma,EE,2024,8.55,BHEL,6934,1,Protection,NO,,0.0
+88,Harsh Agarwal,ME,2023,8.47,Bajaj Auto,13316,6,Thermodynamics|MATLAB,YES,Bajaj Auto,6.38
+89,Vikas Nair 72,CIVIL,2024,8.23,GMR,16993,3,AutoCAD|Surveying,NO,,0.0
+90,Vikas Rao,CSE,2024,7.55,Goldman Sachs,36271,2,DSA|Data Structures,YES,Goldman Sachs,20.83
+91,Arjun Das 19,PIE,2023,7.44,Nestle,19309,3,Mechatronics,NO,,0.0
+92,Neha Das,CSE,2024,8.14,Amazon,75463,3,Java|Node.js,YES,Amazon,29.32
+93,Ankit Iyer,PIE,2024,8.57,Nestle,25306,6,Mechatronics,YES,Nestle,5.05
+94,Amit Bhatia,ME,2022,7.85,TVS,26588,1,FEA|Manufacturing,YES,TVS,7.5
+95,Rohan Chopra,ECE,2022,7.32,Siemens,76654,3,Python|Analog Design,YES,Siemens,15.82
+96,Neha Iyer,ECE,2023,8.09,Siemens,53398,3,C|Signal Processing,NO,,0.0
+97,Simran Kaur,CSE,2024,8.8,Google,32910,3,Node.js|Java,YES,Google,30.25
+98,Raghav Kumar,ECE,2023,7.73,Analog Devices,60038,2,VLSI,NO,,0.0
+99,Manav Kumar,ECE,2023,8.55,Bosch,23546,2,Verilog|FPGA,NO,,0.0
+100,Rohan Kumar,EE,2023,7.98,BHEL,29325,3,SCADA,NO,,0.0
+101,Sana Gupta,EE,2023,7.69,Siemens,12814,6,SCADA|Embedded,NO,,0.0
+102,Sakshi Das,BIOTECH,2023,7.99,Biocon,8539,2,Cell Culture,NO,,0.0
+103,Rahul Iyer,ME,2024,7.16,Tata Motors,32484,3,CAD|AutoCAD,YES,Tata Motors,16.21
+104,Pooja Nair,CIVIL,2022,8.65,Tata Projects,24104,1,Construction Management,NO,,0.0
+105,Arjun Rao,ME,2022,8.5,Bosch,28539,2,FEA|AutoCAD,NO,,0.0
+106,Deepa Kaur,CSE,2024,8.63,Google,5383,1,Node.js|Databases,NO,,0.0
+107,Manav Iyer,ECE,2023,8.84,Texas Instruments,72905,2,Python|Verilog,NO,,0.0
+108,Manav Kapoor,IT,2023,8.32,ThoughtWorks,40683,6,Cloud|Node.js,NO,,0.0
+109,Minal Shetty,BIOTECH,2022,8.78,Syngene,4711,1,Bioinformatics|Molecular Biology,YES,Syngene,3.0
+110,Priya Chopra,CIVIL,2022,7.77,GMR Infra,28828,6,STAAD Pro|Construction Management,YES,GMR Infra,3.0
+111,Minal Gupta,CSE,2024,7.26,Google,104222,6,Python|Databases,NO,,0.0
+112,Tanya Kapoor,CSE,2022,8.07,Google,63898,6,DSA|Data Structures,YES,Google,28.01
+113,Minal Gupta,CSE,2023,7.17,Morgan Stanley,42060,2,Databases,YES,Morgan Stanley,9.77
+114,Harsh Rao 50,CSE,2023,6.99,Goldman Sachs,37988,1,Java|Node.js,NO,,0.0
+115,Vikas Singh,ME,2024,7.46,L&T,8101,3,Manufacturing|MATLAB,NO,,0.0
+116,Minal Malhotra 26,CSE,2022,7.26,Morgan Stanley,16368,1,React,YES,Goldman Sachs,28.8
+117,Pooja Das,BIOTECH,2024,7.98,Bharat Biotech,28381,2,PCR,YES,Bharat Biotech,10.72
+118,Sakshi Shetty,CIVIL,2023,8.69,AFCONS,13460,6,Construction Management|Design,YES,AFCONS,3.0
+119,Manav Iyer,EE,2023,8.77,BHEL,27090,3,Power Systems,YES,BHEL,15.8
+120,Sana Patel,ECE,2024,8.76,Siemens,66177,3,Signal Processing|Embedded,YES,Siemens,9.6
+121,Deepa Malhotra,IT,2022,8.15,Accenture,47997,2,DevOps|SQL,NO,,0.0
+122,Ankit Shetty,EE,2023,8.39,Honeywell,20011,2,Protection,NO,,0.0
+123,Karan Verma,PIE,2022,7.7,BASF,41728,6,Manufacturing|PLC,YES,BASF,15.29
+124,Pooja Patel,BIOTECH,2024,7.87,Ranbaxy,17399,3,Lab Techniques,NO,,0.0
+125,Amit Das,CSE,2024,7.98,Goldman Sachs,54800,6,Machine Learning,NO,,0.0
+126,Sana Agarwal,CSE,2022,7.14,Google,142038,6,Java,NO,,0.0
+127,Raghav Gupta,CSE,2022,7.49,Goldman Sachs,21307,2,Node.js,NO,,0.0
+128,Rohan Mehra,CHE,2023,8.34,Reliance,4203,3,Thermodynamics,NO,,0.0
+129,Deepa Iyer,CSE,2024,7.82,Flipkart,22374,2,Python,NO,,0.0
+130,Kiran Bhatia,CSE,2024,8.82,Amazon,60089,3,Java,YES,Amazon,34.63
+131,Pooja Malhotra 8,ME,2023,8.04,Siemens,38139,6,Thermodynamics,YES,Siemens,13.95
+132,Arjun Jain,IT,2022,6.81,Accenture,66381,1,SQL,NO,,0.0
+133,Arjun Reddy,CSE,2022,8.41,Amazon,30394,2,Data Structures|AWS,YES,Amazon,13.3
+134,Karan Reddy,IT,2023,8.67,Flipkart,39991,2,Angular,YES,Flipkart,33.23
+135,Raghav Chopra,IT,2024,6.87,Flipkart,71753,3,Angular,NO,,0.0
+136,Vikas Verma,EE,2023,7.92,BHEL,7974,1,Embedded,NO,,0.0
+137,Priya Singh,EE,2023,8.23,BHEL,31323,1,Simulink|MATLAB,YES,BHEL,13.02
+138,Sana Shetty,CSE,2023,8.54,Infosys,48586,3,Databases,NO,,0.0
+139,Ritika Kapoor,ECE,2024,7.86,Qualcomm,60510,6,FPGA,NO,,0.0
+140,Ritika Rao,EE,2024,8.87,ABB,13670,1,Simulink,NO,,0.0
+141,Karan Sharma,PIE,2023,8.19,ABB,13294,1,Manufacturing,NO,,0.0
+142,Minal Gupta,ME,2024,8.68,Ashok Leyland,8305,1,Thermodynamics,NO,,0.0
+143,Vivek Rao,ECE,2024,8.34,Siemens,37183,3,Analog Design,YES,Siemens,15.91
+144,Pooja Verma,BIOTECH,2023,7.07,Ranbaxy,11970,3,Lab Techniques|PCR,NO,,0.0
+145,Manav Mehra,CHE,2024,7.78,Reliance,27308,3,Heat Transfer|Process Design,YES,Reliance,5.05
+146,Kiran Jain 53,CSE,2023,8.04,Infosys,87176,2,Machine Learning,NO,,0.0
+147,Ankit Bhatia,CSE,2023,7.29,Microsoft,7753,6,Python|AWS,YES,Microsoft,28.63
+148,Ritu Patel,EE,2023,7.76,Honeywell,4000,2,Control Systems,YES,Honeywell,10.59
+149,Kiran Nair,CIVIL,2022,7.94,Tata Projects,21508,6,Surveying|AutoCAD,NO,,0.0
+150,Aditya Malhotra,CHE,2022,8.1,Suzlon,18661,2,Heat Transfer,NO,,0.0
+151,Ritu Shetty,ME,2022,7.34,Siemens,10838,6,SolidWorks,NO,,0.0
+152,Arjun Kapoor,CSE,2023,7.51,Microsoft,68170,3,DSA|Data Structures,NO,,0.0
+153,Minal Verma,ME,2023,8.11,Bajaj Auto,10209,3,AutoCAD|SolidWorks,NO,,0.0
+154,Ritu Nair,EE,2024,8.57,GE,33619,3,MATLAB|SCADA,NO,,0.0
+155,Rohan Reddy,CHE,2024,7.27,Adani,5320,3,Process Design,NO,,0.0
+156,Tanya Bhatia,IT,2024,8.6,Freshworks,92176,6,Java,NO,,0.0
+157,Aditya Sharma,ECE,2024,8.21,Qualcomm,20562,3,Verilog,NO,,0.0
+158,Rohan Rao 53,IT,2022,7.17,Wipro,67903,1,React,YES,Wipro,13.71
+159,Rohan Nair,ECE,2022,8.89,Siemens,10212,6,Verilog,NO,,0.0
+160,Manav Nair,CSE,2022,8.19,TCS,71340,3,Machine Learning,NO,,0.0
+161,Simran Bhatia 77,IT,2024,8.32,Accenture,59514,1,Angular|React,YES,Accenture,4.12
+162,Vikas Shetty,CIVIL,2024,7.39,NCC,3000,1,STAAD Pro,YES,NCC,6.34
+163,Isha Reddy,EE,2024,9.22,BHEL,21529,1,Control Systems|Embedded,NO,,0.0
+164,Sana Kaur,ME,2023,9.41,Bosch,15871,6,Thermodynamics|CAD,YES,Bosch,8.13
+165,Ritu Nair,CHE,2023,8.46,Dow Chemical,3000,6,Thermodynamics,NO,,0.0
+166,Rahul Chopra,IT,2022,6.9,Wipro,39560,1,Angular,NO,,0.0
+167,Amit Bhatia,CSE,2022,7.24,Infosys,63919,3,React,NO,,0.0
+168,Raghav Kapoor,ME,2023,8.38,TVS,41309,3,Manufacturing,NO,,0.0
+169,Karan Das,IT,2022,7.94,Accenture,63040,3,Angular,YES,Accenture,3.0
+170,Ritika Jain,CSE,2024,7.69,TCS,62872,6,AWS|Data Structures,NO,,0.0
+171,Vikas Nair,IT,2024,8.52,Oracle,88760,2,Node.js|Docker,NO,,0.0
+172,Ritu Gupta,BIOTECH,2024,8.84,Biocon,10987,1,Molecular Biology,YES,Biocon,8.86
+173,Amit Sharma,CSE,2023,8.74,Infosys,53041,6,React|Databases,YES,Infosys,10.31
+174,Rahul Chopra 52,PIE,2022,8.17,Hero MotoCorp,24362,3,Manufacturing|Mechatronics,NO,,0.0
+175,Rohan Chopra,BIOTECH,2022,7.33,Serum Institute,3000,1,Bioinformatics|Molecular Biology,NO,,0.0
+176,Sana Singh,ME,2024,6.91,Maruti Suzuki,12056,1,Manufacturing|AutoCAD,NO,,0.0
+177,Neha Kaur 27,CIVIL,2024,9.35,AFCONS,23307,1,Design,NO,,0.0
+178,Deepa Nair,CHE,2022,8.23,BASF,20058,6,Heat Transfer,NO,,0.0
+179,Arjun Iyer,PIE,2023,8.36,P&G,24186,1,Product Design,NO,,0.0
+180,Ritu Patel,BIOTECH,2022,8.09,Ranbaxy,16390,6,PCR|Lab Techniques,NO,,0.0
+181,Aditya Chopra,PIE,2022,7.09,Emerson,28928,2,Product Design|CAD,YES,BASF,13.2
+182,Amit Kumar,ECE,2024,8.15,Samsung,21934,1,C|Verilog,YES,Samsung,6.32
+183,Ritika Shetty,CHE,2022,8.57,Tata Chemicals,13387,2,Process Design,NO,,0.0
+184,Sakshi Mehra,IT,2023,8.01,ServiceNow,46572,1,SQL,NO,,0.0
+185,Arjun Iyer,EE,2023,8.05,GE,20876,6,SCADA|Power Systems,NO,,0.0
+186,Pooja Rao,IT,2023,8.4,SAP,24641,3,Python|Node.js,NO,,0.0
+187,Manav Kapoor,ECE,2023,9.96,Siemens,76616,2,Python|Embedded,YES,Siemens,10.38
+188,Ritika Chopra,CSE,2024,8.88,Flipkart,118357,6,AWS|Databases,NO,,0.0
+189,Neha Iyer 83,ECE,2023,7.45,Qualcomm,64599,3,Analog Design|VLSI,NO,,0.0
+190,Manav Das,BIOTECH,2024,8.46,Ranbaxy,15409,2,PCR|Molecular Biology,NO,,0.0
+191,Tanya Gupta,ME,2022,8.11,Maruti Suzuki,13662,1,CAD,YES,Maruti Suzuki,22.8
+192,Amit Kaur,IT,2022,7.66,Wipro,93321,1,DevOps|Angular,NO,,0.0
+193,Harsh Patel,CIVIL,2023,6.59,NCC,7589,2,Design,NO,,0.0
+194,Raghav Kumar,CSE,2024,7.56,Infosys,67378,3,AWS|Databases,NO,,0.0
+195,Sana Kaur,CSE,2024,8.67,Goldman Sachs,74458,6,Machine Learning|React,NO,,0.0
+196,Pooja Verma,CSE,2024,7.31,Goldman Sachs,39812,2,Data Structures|Java,NO,,0.0
+197,Kiran Nair,ECE,2022,7.44,Bosch,38124,6,Python,NO,,0.0
+198,Amit Rao,EE,2024,8.37,ABB,16836,3,Simulink,NO,,0.0
+199,Neha Kumar,ECE,2022,7.01,Ericsson,74195,6,C|Verilog,NO,,0.0
+200,Rahul Nair,IT,2022,8.49,ServiceNow,38338,1,Node.js|Docker,NO,,0.0
