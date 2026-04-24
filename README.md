@@ -1,36 +1,37 @@
 # 📊 Placement Analytics Dashboard
 
-##  Overview
-This project analyzes student placement and internship data to generate useful insights using Power BI and a simple HTML prototype.
+## Overview
+A data analytics project to study placement and internship trends using Power BI and supporting datasets.
 
 ---
 
-##  Objective
-- Understand placement trends
-- Analyze internship impact on placements
-- Identify company hiring patterns
-- Visualize data using dashboards
+## Objective
+- Analyze placement trends  
+- Study internship impact on placements  
+- Identify company hiring patterns  
+- Visualize insights using dashboards  
 
 ---
 
-##  Features
+## Features
 - Cleaned placement and internship datasets  
-- Power BI dashboard for visualization  
-- Company-wise hiring analysis  
+- Power BI dashboard for analysis  
+- Company-wise hiring insights  
 - Internship vs placement comparison  
-- Simple HTML UI prototype  
+- Simple HTML prototype dashboard  
 
 ---
 
-##  Tools Used
+## Tools Used
 - Power BI  
 - HTML  
-- CSV Files  
-- Excel / Python (for data cleaning if used)  
+- CSV / Excel datasets  
+- Python (data processing)  
 
 ---
 
-##  Project Structure
+## Project Structure
+```
 placement-analytics-dashboard/
 │
 ├── data/
@@ -38,22 +39,33 @@ placement-analytics-dashboard/
 ├── web-dashboard/
 ├── screenshots/
 └── README.md
+```
 
 ---
 
-##  Results
-- Clear placement trends across branches  
-- Internship experience improves placement chances  
-- Top recruiting companies identified  
+## Screenshots
+
+### Dashboard Overview
+![Dashboard 1](screenshot1.png)
+
+### Placement Analysis
+![Dashboard 2](screenshot3.png)
+
+### Web Prototype
+![Dashboard 3](screenshot2.png)
 
 ---
 
-##  Author
-Your Name  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+## Results
+- Placement trends visualized across branches  
+- Internship experience impact identified  
+- Top recruiting companies highlighted  
 
 ---
 
-##  Note
-This project is for learning and academic purposes.
+## Author
+Chunchu Navadeep  
+---
+
+## Note
+This project is for academic and learning purposes.
