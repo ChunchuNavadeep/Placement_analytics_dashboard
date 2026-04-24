@@ -46,13 +46,13 @@ placement-analytics-dashboard/
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard 1](screenshots\Screenshot1.png)
+![Dashboard 1](Screenshots\Screenshot1.png)
 
 ### Placement Analysis
-![Dashboard 2](screenshots\screenshot3.png)
+![Dashboard 2](Screenshots\Screenshot3.png)
 
 ### Web Prototype
-![Dashboard 3](screenshots\screenshot2.png)
+![Dashboard 3](Screenshots\Screenshot2.png)
 
 ---
 
