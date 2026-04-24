@@ -63,9 +63,6 @@ placement-analytics-dashboard/
 
 ---
 
-## Author
-Chunchu Navadeep  
----
 
 ## Note
 This project is for academic and learning purposes.
